@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "RefleciaProject.Controllers.CommentsController",
+    "Method": "GetAllComments",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RefleciaProject.Controllers.CommentsController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comment",
+        "Type": "RefleciaProject.Models.Comment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

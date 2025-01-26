@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|c:\\users\\valio\\source\\repos\\refleciaproject\\refleciaproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|C:\\Users\\Valio\\source\\repos\\RefleciaProject\\refleciaproject\\refleciaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70014419-B761-45A7-B9AD-948BEF22878C}|RefleciaProject\\RefleciaProject.csproj|solutionrelative:refleciaproject\\refleciaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "RefleciaProject\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Services\\EmailService.cs",
+              "RelativeToolTip": "RefleciaProject\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:20:57.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "RefleciaProject\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "RefleciaProject\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:55:35.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "RefleciaProject\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Models\\Comment.cs",
+              "RelativeToolTip": "RefleciaProject\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:54:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\appsettings.json",
+              "RelativeDocumentMoniker": "RefleciaProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\appsettings.json",
+              "RelativeToolTip": "RefleciaProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T13:49:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Program.cs",
+              "RelativeDocumentMoniker": "RefleciaProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Program.cs",
+              "RelativeToolTip": "RefleciaProject\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:32:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RefleciaProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RefleciaProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:31:29.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefleciaProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\RefleciaProject.csproj",
+              "RelativeDocumentMoniker": "RefleciaProject\\RefleciaProject.csproj",
+              "ToolTip": "C:\\Users\\Valio\\source\\repos\\RefleciaProject\\RefleciaProject\\RefleciaProject.csproj",
+              "RelativeToolTip": "RefleciaProject\\RefleciaProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T13:30:49.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

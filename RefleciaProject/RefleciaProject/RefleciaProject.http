@@ -1,0 +1,6 @@
+@RefleciaProject_HostAddress = http://localhost:5095
+
+GET {{RefleciaProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
